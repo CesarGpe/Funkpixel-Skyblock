@@ -1,0 +1,3 @@
+Cinema Bars Event
+    Value 1: Bar width: 0 to 360
+    Value 2: Tween: Ease, Duration

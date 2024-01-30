@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="remolia.png">
+<SubTexture name="remolia idle0000" x="0" y="0" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia idle0001" x="480" y="0" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia idle0002" x="0" y="270" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia idle0003" x="480" y="270" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia idle0004" x="0" y="540" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia idle0005" x="480" y="540" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia idle0006" x="0" y="270" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia idle0007" x="960" y="0" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia idle0008" x="0" y="0" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia up0000" x="960" y="270" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia up0001" x="960" y="540" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia up0002" x="0" y="810" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia up0003" x="480" y="810" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia down0000" x="960" y="810" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia down0001" x="0" y="1080" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia down0002" x="480" y="1080" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia down0003" x="960" y="1080" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia left0000" x="1440" y="0" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia left0001" x="1440" y="270" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia left0002" x="1440" y="540" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia left0003" x="1440" y="810" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia right0000" x="1440" y="1080" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia right0001" x="0" y="1350" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia right0002" x="480" y="1350" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+<SubTexture name="remolia right0003" x="960" y="1350" width="480" height="270" frameX="0" frameY="0" frameWidth="480" frameHeight="270" />
+</TextureAtlas>

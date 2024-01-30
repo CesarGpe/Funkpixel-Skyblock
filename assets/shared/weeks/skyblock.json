@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Chamba",
+			"iron_pickaxe",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Mentiras",
+			"blank",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "skyblock",
+	"weekName": "skyblock",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "skyblock",
+	"startUnlocked": true
+}
